@@ -17,7 +17,7 @@ We implement the interactive virtual environment in JavaScript.
 ### In server folder:
 This folder contains all necessary files including server.js and node.js which enable WebSocket server to communicate VRduino data to the browser.
 
-## In css folder
+### In css folder
 style.css: this is the file we specify the layout of our webpage such as the locations of Time and Score.
 
 ### Various object folders:
