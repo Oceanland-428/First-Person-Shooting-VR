@@ -4,6 +4,8 @@ This is the README file for our project: First-person Shooting Game in THREE.js.
 
 The game can only run on Firefox!! Chrome does not support some external 3D models.
 
+ATTENTION: The folders are not complete due to the limitation on the number of files and size of zipfile of github. If you are interested, please email limc@stanford.edu
+
 ## JavaScript
 
 We implement the interactive virtual environment in JavaScript. 
